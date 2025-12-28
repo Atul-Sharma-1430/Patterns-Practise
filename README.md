@@ -1,0 +1,1 @@
+Java Pattern programs for practise sand logic building.
